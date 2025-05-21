@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Factorial Calculator</title>
+<style>
+.container {
+margin: 20px;
+padding: 20px;
+width: 300px;
+border: 1px solid #ccc;
+border-radius: 5px;
+}
+.form-group {
+margin: 10px 0;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<h2>Factorial Calculator</h2>
+<form action="factorial" method="post">
+<div class="form-group">
+Enter a number:
+<input type="number" name="number" min="0" max="20" required>
+<small>(Max: 20)</small>
+</div>
+<input type="submit" value="Calculate Factorial">
+</form>
+</div>
+</body>
+</html>
