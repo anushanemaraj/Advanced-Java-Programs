@@ -1,3 +1,5 @@
+//Validate Email withcontains( ) and startsWith() and endsWith()
+
 package Program2;
 
 public class EmailValidator {
