@@ -1,3 +1,5 @@
+//StrinSplitting
+
 package adjlab3;
 public class StringSplitting {
     public static void main(String[] args) {
