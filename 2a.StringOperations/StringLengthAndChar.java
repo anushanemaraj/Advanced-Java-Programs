@@ -1,3 +1,5 @@
+//Length and Character Access
+
 package adjlab3;
 
 public class StringLengthAndChar {
