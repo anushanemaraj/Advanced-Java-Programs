@@ -1,3 +1,6 @@
+//4. Write a Java program to display elements and their positions in a linked list ( using
+//l_listobj.get(p) )
+
 package javalab;
 
 import java.util.LinkedList;
