@@ -1,1 +1,1 @@
-InsertEmployeeDetails output link ->([https://github.com/anushanemaraj/Advanced-Java-Programs/blob/main/9c.InsertEmpoyeeDetails/src/main/webapp/Screenshot%202025-05-22%20074828.png](https://github.com/anushanemaraj/Advanced-Java-Programs/blob/main/9c.InsertEmpoyeeDetails/src/main/webapp/9c.insertEmp.jpg))
+InsertEmployeeDetails output link ->(https://github.com/anushanemaraj/Advanced-Java-Programs/blob/main/9c.InsertEmpoyeeDetails/src/main/webapp/Screenshot%202025-05-22%20074828.png)
