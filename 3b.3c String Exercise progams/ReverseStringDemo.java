@@ -1,5 +1,5 @@
-Q3. Write a Java Program for Reversing the characters in a string using user defined function
-reverseString().
+//Q3. Write a Java Program for Reversing the characters in a string using user defined function
+//reverseString().
 
 package Program2;
 import java.util.Scanner;
